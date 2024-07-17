@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "nome": "Bruno Damião Pereira da Silva",
+      "preco": "66,00",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 1
+    },
+    {
+      "nome": "Bruno ",
+      "preco": "99,00",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 2
+    },
+    {
+      "nome": "alura",
+      "preco": "23,00",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 3
+    },
+    {
+      "nome": "teste",
+      "preco": "45,00",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 4
+    }
+  ]
+}
